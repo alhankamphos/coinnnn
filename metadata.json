@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Coinnet P2P",
+  "description": "Una plataforma segura de intercambio P2P entre efectivo y SINPE Móvil en Costa Rica.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
